@@ -10,5 +10,5 @@ assim que for pressionado.
 
 ## Conteúdo
 
-### Firmware para Atmega328p
-### PCI feita no software Eagle
+* Firmware para Atmega328p
+* PCI feita no software Eagle

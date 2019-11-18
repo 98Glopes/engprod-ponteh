@@ -1,0 +1,47 @@
+Partlist
+
+Exported from board.brd at 16/11/19 17:06
+
+EAGLE Version 9.4.2 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package  Library          Position (mil)        Orientation
+
+D1       1N4004         DO41-10  diode            (500 2700)            R90
+D2       1N4004         DO41-10  diode            (1100 2700)           R270
+D3       1N4004         DO41-10  diode            (1750 2700)           R90
+D4       1N4004         DO41-10  diode            (2350 2700)           R270
+D5       1N4004         DO41-10  diode            (3300 2700)           R90
+D6       1N4004         DO41-10  diode            (3950 2700)           R270
+D7       1N4004         DO41-10  diode            (4650 2700)           R90
+D8       1N4004         DO41-10  diode            (5300 2700)           R270
+IC1      ATMEGA328-20P  DIL28-3  atmega328        (850 1800)            MR180
+JP1                     1X03     pinhead          (200 1150)            R0
+MOTORA                  1X02     pinhead          (2900 3250)           R270
+MOTORB                  1X02     pinhead          (100 3250)            R270
+Q1       TIP125         TO220AH  transistor-power (500 3300)            R0
+Q2       TIP120         TO220AH  transistor-power (1100 3300)           R0
+Q3       TIP125         TO220AH  transistor-power (1750 3300)           R0
+Q4       TIP120         TO220AH  transistor-power (2350 3300)           R0
+Q5       TIP125         TO220AH  transistor-power (3300 3300)           R0
+Q6       TIP120         TO220AH  transistor-power (3950 3300)           R0
+Q7       TIP125         TO220AH  transistor-power (4650 3300)           R0
+Q8       TIP120         TO220AH  transistor-power (5300 3300)           R0
+R1                      0204/7   rcl              (250 2900)            R270
+R2                      0204/7   rcl              (850 2900)            R270
+R3                      0204/7   rcl              (1500 2900)           R90
+R4                      0204/7   rcl              (2100 2900)           R90
+R5                      0204/7   rcl              (3050 2900)           R270
+R6                      0204/7   rcl              (3700 2900)           R270
+R7                      0204/7   rcl              (4400 2900)           R90
+R8                      0204/7   rcl              (5050 2900)           R90
+S1                      B3F-10XX switch-omron     (5250 1900)           R90
+S2                      B3F-10XX switch-omron     (4850 1900)           R90
+S3                      B3F-10XX switch-omron     (4450 1900)           R90
+S4                      B3F-10XX switch-omron     (4050 1900)           R90
+S5                      B3F-10XX switch-omron     (3650 1900)           R90
+S6                      B3F-10XX switch-omron     (3250 1900)           R90
+S7                      B3F-10XX switch-omron     (2800 1900)           R90
+S8                      B3F-10XX switch-omron     (2400 1900)           R90
+S9                      B3F-10XX switch-omron     (2000 1900)           R90
